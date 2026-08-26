@@ -7,4 +7,6 @@ document.getElementById('gameFileInput').addEventListener('change', async (e) =>
         e.target.value = ''; //reset input
         return;
     }
-}) 
+
+    
+}); 

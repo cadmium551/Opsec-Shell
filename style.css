@@ -2,3 +2,10 @@
 	background-color: #282828;
 	color: #ebdbb2;
 }
+
+footer {
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	bottom: 0;
+}

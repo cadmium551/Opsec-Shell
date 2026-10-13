@@ -24,3 +24,4 @@ async function saveToOPFS(file) {
     await writable.write(file); //copies the shit in a kettle
     await writable.close();
 }
+
